@@ -1,10 +1,1 @@
-{
-    "permissions": {
-      "allow": [
-        "Bash(node:*)",
-        "Bash(git:*)"
-      ]
-    },
-    "plansDirectory": ".claude/plans"
-  }
-  
+{}
