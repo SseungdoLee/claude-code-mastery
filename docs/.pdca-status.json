@@ -1,0 +1,17 @@
+{
+  "version": "2.0",
+  "lastUpdated": "2026-03-02T08:02:00.706Z",
+  "activeFeatures": [],
+  "primaryFeature": null,
+  "features": {},
+  "pipeline": {
+    "currentPhase": 1,
+    "level": "Starter",
+    "phaseHistory": []
+  },
+  "session": {
+    "startedAt": "2026-03-02T08:02:00.707Z",
+    "onboardingCompleted": false,
+    "lastActivity": "2026-03-02T08:02:00.707Z"
+  }
+}
